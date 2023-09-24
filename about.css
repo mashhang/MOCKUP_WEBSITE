@@ -1,0 +1,80 @@
+.rosarivo {
+    font-family: 'Rosarivo', serif;
+}
+
+.crimson {
+    font-family: 'Crimson Text', serif;
+}
+
+nav {
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.title {
+    font-size: 60px;
+    margin-left: 40PX;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 50px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.bg {
+    background-image: url(about.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 50%;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 400px;
+}
+
+.caption {
+    font-size: 30px;
+    margin-left: 600px;
+    margin-right: 250px;
+    margin-top: 100px;
+    text-align: justify;
+}
+
+.about {
+    border-bottom: 2px solid #fff;
+  padding-bottom: 100px;
+  margin-left: 700px;
+  margin-right: 350px;
+}
+
+#socials {
+    text-align: center; /* Center-align the content horizontally */
+    margin-top: 100px; /* Adjust the top margin for spacing */
+    margin-left: 365px;
+    font-size: 28px;
+}
+
+#socials a {
+    padding-left: 15px;
+}
